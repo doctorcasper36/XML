@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<enviroment>Mobile or web</enviroment>
+<title>What where when</title>
+<ER>Words</ER>
+<AR>Words again</AR>
+<Steps>All steps</Steps>
+<Precondition>information</Precondition>
+</bug_report>
